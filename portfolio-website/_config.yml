@@ -3,7 +3,7 @@
 title: "My Portfolio Website"
 description: "A portfolio website showcasing my free courses and testimonials."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yourusername.github.io" # the base hostname & protocol for your site
+url: "https://mausam3.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
